@@ -1,0 +1,16 @@
+{
+  "app_name": "VoiceFlow-AI",
+  "wake_word": "hello voice flow",
+  "theme": "dark",
+  "voice_provider": "google",
+  "voice_language": "en-US",
+  "startup_minimized": false,
+  "auto_start_on_boot": false,
+  "enable_notifications": true,
+  "log_level": "INFO",
+  "ui_theme_color": "#1976d2",
+  "developer_mode_enabled": false,
+  "developer_mode_workspace": "",
+  "attention_call_prompts": true,
+  "attention_message_prompts": true
+}

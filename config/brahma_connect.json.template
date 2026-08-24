@@ -1,0 +1,8 @@
+{
+  "gateway_host": "0.0.0.0",
+  "gateway_port": 8765,
+  "enable_mdns_discovery": true,
+  "max_pairing_attempts": 3,
+  "pairing_code_expiry": 300,
+  "paired_devices": []
+}
